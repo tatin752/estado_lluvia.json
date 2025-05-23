@@ -1,0 +1,1 @@
+# estado_lluvia.json
