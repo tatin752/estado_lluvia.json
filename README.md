@@ -1,1 +1,3 @@
-# estado_lluvia.json
+# estado_lluvia.json{
+  "lluvia": true
+}
